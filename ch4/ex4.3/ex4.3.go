@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// 선언 대입문 :=
 func main() {
 	var a int = 3
 	var b int

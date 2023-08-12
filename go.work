@@ -3,6 +3,7 @@ go 1.20
 use (
 	./ch4/ex4.1
 	./ch4/ex4.2
+	./ch4/ex4.3
 	./hello
 	./hello2
 )

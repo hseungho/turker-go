@@ -8,6 +8,7 @@ use (
 	./ch4/ex4.5
 	./ch4/ex4.7
 	./ch5/ex5.1
+	./ch5/ex5.2
 	./hello
 	./hello2
 )

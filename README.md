@@ -6,3 +6,4 @@
 
 ## [2. Variable](.docs/2--variable.md)
 
+## [3. fmt 패키지](.docs/3--fmt.md)

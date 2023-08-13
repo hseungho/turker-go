@@ -12,6 +12,7 @@ use (
 	./ch5/ex5.3
 	./ch5/ex5.4
 	./ch5/ex5.5
+	./ch5/ex5.6
 	./hello
 	./hello2
 )

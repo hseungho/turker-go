@@ -12,5 +12,5 @@ func main() {
 		fmt.Println(m, s, g)
 	}
 
-	m = s + 20 // Error 발생 <- 변수 s를 찾지 못함.
+	//m = s + 20 // Error 발생 <- 변수 s를 찾지 못함.
 }

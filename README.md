@@ -9,3 +9,5 @@
 ## [3. fmt 패키지](.docs/3--fmt.md)
 
 ## [4. 연산자](.docs/4--operator.md)
+
+## [5. 함수](.docs/5--function.md)

@@ -24,6 +24,13 @@ use (
 	./ch6/ex6.7
 	./ch6/ex6.8
 	./ch6/ex6.9
+	./ch7/ex7.1
+	./ch7/ex7.2
+	./ch7/ex7.3
+	./ch7/ex7.4
+	./ch7/ex7.5
+	./ch7/ex7.6
+	./ch7/quiz
 	./hello
 	./hello2
 )

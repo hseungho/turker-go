@@ -11,3 +11,5 @@
 ## [4. 연산자](.docs/4--operator.md)
 
 ## [5. 함수](.docs/5--function.md)
+
+## [6. 상수](.docs/6--constant.md)

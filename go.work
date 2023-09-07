@@ -35,6 +35,12 @@ use (
 	./ch8/ex8.2
 	./ch8/ex8.3
 	./ch8/ex8.4
+	./ch9/ex9.1
+	./ch9/ex9.2
+	./ch9/ex9.3
+	./ch9/ex9.4
+	./ch9/ex9.5
+	./ch9/ex9.6
 	./hello
 	./hello2
 )

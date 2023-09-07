@@ -13,3 +13,5 @@
 ## [5. 함수](.docs/5--function.md)
 
 ## [6. 상수](.docs/6--constant.md)
+
+## [7. if문](.docs/7--if.md)

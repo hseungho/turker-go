@@ -15,3 +15,5 @@
 ## [6. 상수](.docs/6--constant.md)
 
 ## [7. if문](.docs/7--if.md)
+
+## [8. switch문](.docs/8--switch.md)

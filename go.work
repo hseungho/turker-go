@@ -12,6 +12,17 @@ use (
 	./ch10/ex10.8
 	./ch10/ex10.9
 	./ch10/quiz
+	./ch11/ex11.1
+	./ch11/ex11.2
+	./ch11/ex11.3
+	./ch11/ex11.4
+	./ch11/ex11.5
+	./ch11/ex11.6
+	./ch11/ex11.7
+	./ch11/ex11.8
+	./ch11/ex11.9
+	./ch11/quiz/quiz3
+	./ch11/quiz/quiz4
 	./ch4/ex4.1
 	./ch4/ex4.2
 	./ch4/ex4.3
